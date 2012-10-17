@@ -16,6 +16,7 @@
 		<div class="banner"></div>
 		
 		<table>
+
 		<!-- This is where we'll put all our content -->
             <?php
                 include("config.php");
@@ -30,6 +31,7 @@
                     echo $row("author"),"</p>";
                 }
                 ?>
+
 		</table>
 		
 		<script type="text/javascript">
