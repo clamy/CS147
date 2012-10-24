@@ -15,7 +15,9 @@
 	
 		<div class="banner"></div>
 		<?php
+            
 		include("menu.php");
+            
 		?>
 		
 		<table>
